@@ -52,22 +52,21 @@
 	-->
 	
 	<esfroles>
-    <esfrole  esfname="ESF #1 - Transportation" configfile="config-ESF01.xml"  imagesrc='widgets/Splash/assets/images/esf/esf1.png' />
-    <esfrole  esfname="ESF #2 - Communications" imagesrc='widgets/Splash/assets/images/esf/esf2.png' />
-    <esfrole  esfname="ESF #3 - Public Works" imagesrc='widgets/Splash/assets/images/esf/esf3.png'/>
-    <esfrole  esfname="ESF #4 - Fire Fighting" imagesrc='widgets/Splash/assets/images/esf/esf4.png' />
-    <esfrole  esfname="ESF #5 - Emergency Management" imagesrc='widgets/Splash/assets/images/esf/esf5.png' />
-    <esfrole  esfname="ESF #6 - Mass Care" imagesrc='widgets/Splash/assets/images/esf/esf6.png' />
-    <esfrole  esfname="ESF #7 - Logistics" imagesrc='widgets/Splash/assets/images/esf/esf7.png' />
-    <esfrole  esfname="ESF #8 - Public Health" imagesrc='widgets/Splash/assets/images/esf/esf8.png' />
-    <esfrole  esfname="ESF #9 - Search  And  Rescue" imagesrc='widgets/Splash/assets/images/esf/esf9.png' />
-    <esfrole  esfname="ESF #10 - Hazmat" imagesrc='widgets/Splash/assets/images/esf/esf10.png' />
-    <esfrole  esfname="ESF #11 - Natural Resources" imagesrc='widgets/Splash/assets/images/esf/esf11.png'/>
-    <esfrole  esfname="ESF #12 - Energy" imagesrc='widgets/Splash/assets/images/esf/esf12.png' />
-    <esfrole  esfname="ESF #13 - Public Safety" imagesrc='widgets/Splash/assets/images/esf/esf13.png' />
-    <esfrole  esfname="ESF #14 - Long Term Recovery" imagesrc='widgets/Splash/assets/images/esf/esf14.png' />
-    <esfrole  esfname="ESF #15 - External Affairs" imagesrc='widgets/Splash/assets/images/esf/esf15.png' />
-
+    <esfrole  esfname="ESF #1 - Transportation" configfile="ESFconfig/ESF01.xml"  imagesrc='widgets/Splash/assets/images/esf/esf1.png' />
+    <esfrole  esfname="ESF #2 - Communications" configfile="ESFconfig/ESF02.xml" imagesrc='widgets/Splash/assets/images/esf/esf2.png' />
+    <esfrole  esfname="ESF #3 - Public Works" configfile="ESFconfig/ESF03.xml" imagesrc='widgets/Splash/assets/images/esf/esf3.png'/>
+    <esfrole  esfname="ESF #4 - Fire Fighting" configfile="ESFconfig/ESF04.xml" imagesrc='widgets/Splash/assets/images/esf/esf4.png' />
+    <esfrole  esfname="ESF #5 - Emergency Management" configfile="ESFconfig/ESF05.xml" imagesrc='widgets/Splash/assets/images/esf/esf5.png' />
+    <esfrole  esfname="ESF #6 - Mass Care" configfile="ESFconfig/ESF06.xml" imagesrc='widgets/Splash/assets/images/esf/esf6.png' />
+    <esfrole  esfname="ESF #7 - Logistics" configfile="ESFconfig/ESF07.xml" imagesrc='widgets/Splash/assets/images/esf/esf7.png' />
+    <esfrole  esfname="ESF #8 - Public Health" configfile="ESFconfig/ESF08.xml" imagesrc='widgets/Splash/assets/images/esf/esf8.png' />
+    <esfrole  esfname="ESF #9 - Search  And  Rescue" configfile="ESFconfig/ESF09.xml" imagesrc='widgets/Splash/assets/images/esf/esf9.png' />
+    <esfrole  esfname="ESF #10 - Hazmat" configfile="ESFconfig/ESF10.xml" imagesrc='widgets/Splash/assets/images/esf/esf10.png' />
+    <esfrole  esfname="ESF #11 - Natural Resources" configfile="ESFconfig/ESF11.xml" imagesrc='widgets/Splash/assets/images/esf/esf11.png'/>
+    <esfrole  esfname="ESF #12 - Energy" configfile="ESFconfig/ESF12.xml" imagesrc='widgets/Splash/assets/images/esf/esf12.png' />
+    <esfrole  esfname="ESF #13 - Public Safety" configfile="ESFconfig/ESF13.xml" imagesrc='widgets/Splash/assets/images/esf/esf13.png' />
+    <esfrole  esfname="ESF #14 - Long Term Recovery" configfile="ESFconfig/ESF14.xml" imagesrc='widgets/Splash/assets/images/esf/esf14.png' />
+    <esfrole  esfname="ESF #15 - External Affairs" configfile="ESFconfig/ESF15.xml" imagesrc='widgets/Splash/assets/images/esf/esf15.png' />
 	</esfroles>
 	<savebtnlabel>Save Event Type and Role</savebtnlabel>
 </configuration>
