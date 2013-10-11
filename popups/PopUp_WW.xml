@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<configuration>
+    <title>{EVENT}</title>
+    <description>
+     </description>
+    <fields>
+        <field name="event" alias="Event" visible="true"/>
+        <field name="effective" alias="Effective Date" visible="true"/>
+        <field name="expires" alias="Expires" visible="true"/>
+        <field name="web" alias="web" visible="true"/>
+    </fields>
+</configuration>
+
+<!--
+    Pop-up configuration file for:
+    http://sampleserver3.arcgisonline.com/ArcGIS/rest/services/Hurricanes/NOAA_Tracks_1851_2007/MapServer/0
+
+    See pop-up documentation at
+    http://links.esri.com/flexviewer/popups
+-->

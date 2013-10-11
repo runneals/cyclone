@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<configuration>
+    <title>Fire Name: {fire_name}</title>
+    <fields>
+        <field name="fire_name" alias="Fire Name" visible="true"/>
+        <field name="fire_num" alias="Fire Number" visible="true"/>
+        <field name="agency" alias="Agency" visible="true"/>
+	      <field name="acres" alias="Acres" visible="true"/>
+    </fields>
+    <showattachments>false</showattachments>
+</configuration>

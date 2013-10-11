@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<configuration>
+    <title>{OPSSTATUS}</title>
+    <fields>
+       <field name="CAPACITY" visible="true"/>
+        <field name="HOURSOPER" visible="true"/>
+        <field name="OPENDATE" alias="Opened On" visible="true"/>
+    </fields>
+    <showattachments>true</showattachments>
+</configuration>

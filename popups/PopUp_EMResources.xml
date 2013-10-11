@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<configuration>
+    <title>{CATEGORY}</title>
+    <fields>
+       <field name="FCODE" alias="Type" visible="true"/>
+        <field name="NUMAVAIL" visible="true"/>
+        <field name="AVAILABLE" visible="true"/>
+    </fields>
+    <showattachments>true</showattachments>
+</configuration>

@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<configuration>
+    <title>Location: {LOCATION}</title>
+    <fields>
+      <field name="UTC_DATETIME" alias="UTC Date" visible="true"/>
+      <field name="HAIL_SIZE" alias="Hail Size" visible="true"/>
+      <field name="F_SCALE" alias="Size" visible="true"/>
+      <field name="COMMENTS" alias="Comments" visible="true"/>
+    </fields>
+    <showattachments>false</showattachments>
+</configuration>

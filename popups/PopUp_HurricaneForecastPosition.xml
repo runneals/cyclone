@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<configuration>
+    <title>Storm Name: {STORMNAME}</title>
+    <fields>
+      <field name="STORMNAME" alias="Storm Name" visible="true"/>
+      <field name="FLDATELBL" alias="Date" visible="true"/>
+      <field name="ADVISNUM" alias="Advisory Number" visible="true"/>
+      <field name="TCDVLP" alias="Type" visible="true"/>
+    </fields>
+    <showattachments>false</showattachments>
+</configuration>

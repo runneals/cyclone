@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<configuration>
+    <title>Name: {staname}</title>
+    <fields>
+        <field name="staid" alias="Station ID" visible="true"/>
+        <field name="staname" alias="Station Name" visible="true"/>
+        <field name="stage" alias="Stage" visible="true"/>
+	      <field name="class" alias="Class" visible="true"/>
+	      <field name="url" alias="URL" visible="true"/>
+    </fields>
+    <showattachments>false</showattachments>
+</configuration>

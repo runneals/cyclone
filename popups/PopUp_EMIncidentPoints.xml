@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<configuration>
+    <title>{INCIDENTNM}</title>
+    <fields>
+        <field name="FCODE" alias="Type" visible="true"/>
+        <field name="COLLTIME" alias="Collection Time" visible="true"/>
+    </fields>
+    <showattachments>true</showattachments>
+</configuration>

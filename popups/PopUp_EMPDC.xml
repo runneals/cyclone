@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<configuration>
+    <title>Hazard: {HAZARD_NAME}</title>
+    <fields>
+        <field name="STATUS" alias="Status" visible="true"/>
+        <field name="CREATE_DATE" alias="Start" visible="true"/>
+        <field name="END_DATE" alias="End" visible="true"/>
+	<field name="LATITUDE" alias="Latitude" visible="true"/>
+	<field name="LONGITUDE" alias="Longitude" visible="true"/>
+    </fields>
+    <showattachments>true</showattachments>
+</configuration>

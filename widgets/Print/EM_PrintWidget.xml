@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<configuration>
+    <!-- change this URL to your own Export Web Map Task (requires ArcGIS Server 10.1), or just remove the taskurl tag to get quick printing -->
+
+</configuration>
+
+<!--
+    See Print widget tag reference at
+    http://links.esri.com/printwidget
+-->

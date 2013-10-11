@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<configuration>
+    <title>Earthquake:  {title}</title>
+    <fields>
+        <field name="title" alias="Title" visible="true"/>
+        <field name="datetime" alias="Date" visible="true"/>
+        <field name="magnitude" alias="Magnitude" visible="true"/>
+	      <field name="url" alias="URL" visible="true"/>
+	  </fields>
+    <showattachments>false</showattachments>
+</configuration>
